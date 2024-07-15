@@ -4,3 +4,6 @@ This repository contains all of the materials used in the [VBYO2024](https://sit
 
 
 
+
+- [Ali Najafi](https://github.com/AliNajafi1998) --> Designing the project and Finetuning 
+- [Yasser Zouzou](https://github.com/YZouzou) -->  Designing the project and RAG System 
